@@ -1,5 +1,5 @@
 ###############################################################################
-# Name        : screencap.sh
+# Name        : screenshot.sh
 # Description : Take a screenshot using scrot and Xdialog. Will prompt for
 #               a full screen capture or select a window/area.
 # Date        : 15.06.2013
